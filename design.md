@@ -22,5 +22,4 @@ AI navigator that parses docs → generates tailored bureaucracy plans for stude
 - LangChain/LlamaIndex for RAG
 - Multilingual via AWS Translate
 
-## Visuals
-[Describe or link to your PPT flow diagram here]
+
